@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.db
+venv/
+instance/
+uploads/
+*.log
+create_config_files.sh
