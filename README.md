@@ -1,5 +1,5 @@
 # ReachCraftAI: Intelligently craft and automate personalized email outreach. 
-# Gemini-Powered Email Personalization App
+Gemini-Powered Email Personalization App
 
 ## Overview
 
